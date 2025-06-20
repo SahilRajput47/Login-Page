@@ -25,7 +25,7 @@
 
 ## 📸 Preview
 g
-<img src="https://github.com/SahilRajput47/Login-Page/blob/0634bd870fb9df0451b0fe5b4167c68ed9188b94/Pg.png" alt="img">
+<img src="https://github.com/SahilRajput47/Login-Page/blob/9ed293199b0c15176577fef70453ac71aa4af8b1/Screenshot.png" alt="img">
 
 <br/>
 
