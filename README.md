@@ -24,8 +24,8 @@
 <br/>
 
 ## 📸 Preview
-
-<img src="https://github.com/SahilRajput47/Login-Page/blob/7999c17137cffbd57affe79739793ec0cd5ff04a/Pg.png" alt="img">
+g
+<img src="https://github.com/SahilRajput47/Login-Page/blob/0634bd870fb9df0451b0fe5b4167c68ed9188b94/Pg.png" alt="img">
 
 <br/>
 
